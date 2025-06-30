@@ -40,45 +40,37 @@
 |  |  |  |  
 |-----------------|-----------------|-----------------|
 | 황재용    |  <img src="https://github.com/user-attachments/assets/4a77a17f-4636-42d1-8a3e-7dd39083ed45" alt="황재용" width="100"> | <ul><li>회원가입</li><li>로그인/로그아웃</li><li>회원정보 관리</li></ul>     |  
-| 홍성경   |  <img src="https://github.com/user-attachments/assets/8b339fdd-2bfc-4bc0-a6e5-9ec4120cc5dd" alt="박소혜" width="100">| <ul><li>데이터 통계</li><li>설문지 관리</li></ul> |  
-| 진보경   |  <img src="https://github.com/user-attachments/assets/41d4f8f2-e6fb-45f8-b96b-54e06bb19f2a" alt="정예인" width="100">    |<ul><li>상품 관리</li></ul>  |  
-| 조수민    |  <img src="https://github.com/user-attachments/assets/14a989db-70e9-40ca-8d2b-9c8a67a648b3" alt="박현욱" width="100">    | <ul><li>즐겨찾기</li></ul>    |  
-| 박소혜    |  <img src="https://github.com/user-attachments/assets/dfba3d6e-bbae-40bf-832b-101e29739593" alt="최유진" width="100">    | <ul><li>공지사항</li><li>자유게시판</li><li>FAQ</li><li>Q&A</li></ul>    |  
+| 박소혜   |  <img src="https://github.com/user-attachments/assets/8b339fdd-2bfc-4bc0-a6e5-9ec4120cc5dd" alt="박소혜" width="100">| <ul><li>데이터 통계</li><li>설문지 관리</li></ul> |  
+| 정예인   |  <img src="https://github.com/user-attachments/assets/41d4f8f2-e6fb-45f8-b96b-54e06bb19f2a" alt="정예인" width="100">    |<ul><li>상품 관리</li></ul>  |  
+| 박현욱    |  <img src="https://github.com/user-attachments/assets/14a989db-70e9-40ca-8d2b-9c8a67a648b3" alt="박현욱" width="100">    | <ul><li>즐겨찾기</li></ul>    |  
+| 최유진    |  <img src="https://github.com/user-attachments/assets/dfba3d6e-bbae-40bf-832b-101e29739593" alt="최유진" width="100">    | <ul><li>공지사항</li><li>자유게시판</li><li>FAQ</li><li>Q&A</li></ul>    |  
 <br/>
 <br/>
 
 # 5. Technology Stack (기술 스택)
-## 5.1 Frontend
-|  |  |
-|------|------|
-| React | <img src="https://github.com/user-attachments/assets/e3b49dbb-981b-4804-acf9-012c854a2fd2" alt="React" width="100"> |
-| Redux | <img src="https://github.com/user-attachments/assets/a73eb735-84fd-4471-a0e9-806a7a1289c0" alt="Redux" width="100"> |
 
-
-
-<br/>
-
-## 5.3 Backend
+## 5.1 Stack
 |  |  |  
 |-----------------|-----------------|  
 | Java    |  <img src="https://github.com/user-attachments/assets/d89cffd5-ed08-4183-875d-c248b6462603" alt="Java" width="100"> |  
 | Spring boot    |  <img src="https://github.com/user-attachments/assets/40ce0c36-fe55-438d-82da-95cd4bca7a7a" alt="SpringBoot" width="100"> |  
 | Spring security    |  <img src="https://github.com/user-attachments/assets/c686bdd7-4b29-4c7b-b840-936f277fde16" alt="SpringSecurity" width="100"> |  
-| MyBatis    |  <img src="https://github.com/user-attachments/assets/2b01043f-b050-4db8-998b-eb350aa93830" alt="MyBatis" width="100"> |  
+| HTML    |  <img src="https://github.com/user-attachments/assets/5269219b-95da-4e25-8b71-cef2e577739f" alt="html" width="100"> |  
+| CSS    |  <img src="https://github.com/user-attachments/assets/05f3ab86-b23c-41e9-a541-6757ad933062" alt="css" width="100"> |  
+| JS    |  <img src="https://github.com/user-attachments/assets/08ff6724-cca5-47d9-bbd6-927cdaa98daa" alt="js" width="100"> |  
 <br/>
 
-## 5.4 Cooperation
+## 5.2 Cooperation
 |  |  |
 |-----------------|-----------------|
 | Git    |  <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git" width="100">    |
 | Figma    |  <img src="https://github.com/user-attachments/assets/cc702edd-0ac9-4f11-b0f5-56679a12a81e" alt="Figma" width="100">    |
-| Notion    |  <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="100">    |
-| Swagger   |  <img src="https://github.com/user-attachments/assets/dab7db5d-6565-43ef-978b-3743af717c1f" alt="swagger" width="100">    |
+| Notion    |  <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="100">    |  
 
 <br/>
 
 # 6. 개발 기간
-- 2025년 4월 14 ~ 2025 6월 11일
+- 2025년 2월 ~ 2025 4월
 <img src="https://github.com/user-attachments/assets/7d01dd97-0dac-441c-a00a-3e3a1f90c664" alt="wbs" width="100%">
 
 
