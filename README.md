@@ -18,29 +18,20 @@
 <br/>
 
 # 3. Key Features (주요 기능)
-- **회원가입**:
-  - 회원가입 시 DB에 유저정보가 등록됩니다.
+- **회원 관리**:  
+  - 회원가입, 로그인, 회원 정보 수정 등 전체적인 회원 데이터를 관리한다.
 
-- **로그인**:
-  - 사용자 인증 정보를 통해 로그인합니다.
+- **설문지**:  
+  - 사용자 건강 맞춤 상품을 추천하기 위한 설문지 관리
 
-- **영상 추천**:
-  - 사용자의 감정, 오늘의 날씨, 관심사를 통한 영상을 추천합니다.
-  - 유튜브 영상을 API를 통해 가져옵니다.
+- **상품 관리**:  
+  - 프로틴 제품을 추천
 
-- **동아리 찾기**:
-  - 대학 내 동아리를 검색할 수 있습니다.
-  - 검색 시 해당 동아리가 업로드한 홍보글이 보여집니다.
+- **즐겨찾기**:  
+  - 상품을 즐겨찾기 할 수 있다.
 
-- **피드(커뮤니티)**:
-  - 관심있는 책, 영상에 대한 커뮤니티 공간을 사용할 수 있습니다.
-
-- **게시판**:
-  - 공지사항, FAQ, Q&A 게시판을 활용할 수 있습니다.
-
-- **내 서재**:
-  - 피드에서 사용할 사진을 등록하고, 캘린더에 하루하루 감정 상태를 등록합니다.
-  - 즐겨찾기 영상, 즐겨찾기 책 목록을 확인할 수 있습니다.
+- **게시판**:  
+  - 공지사항, Q&A, FAQ, 자유게시판 관리
 
 <br/>
 <br/>
@@ -48,13 +39,11 @@
 # 4. Tasks & Responsibilities (작업 및 역할 분담)
 |  |  |  |  
 |-----------------|-----------------|-----------------|
-| 황재용    |  <img src="https://github.com/user-attachments/assets/b49d9b85-dcbc-45e9-8b18-19d08bd309b0" alt="황재용" width="100"> | <ul><li>책 리뷰</li><li>북마크</li><li>게시판</li></ul>     |
-| 홍성경   |  <img src="https://github.com/user-attachments/assets/12f9de22-5ec9-438a-8130-3ba89ffaf9a3" alt="홍성경" width="100">| <ul><li>큐레이션</li><li>책 상세페이지</li><li>신고</li><li>영상 필터링</li></ul> |
-| 진보경   |  <img src="https://github.com/user-attachments/assets/38dcd32c-b46a-49c5-a9fd-9d72ea16c3cc" alt="진보경" width="100">    |<ul><li>회원가입</li><li>로그인/로그아웃</li><li>정보관리</li><li>회원관리</li></ul>  |
-| 조수민    |  <img src="https://github.com/user-attachments/assets/6fc18f3c-9fc2-47af-95cf-21eddd76374b" alt="조수민" width="100">    | <ul><li>큐레이션</li><li>영상/책 검색</li><li>영상 상세페이지</li></ul>    |
-| 박소혜    |  <img src="https://github.com/user-attachments/assets/86189a2a-74f9-49b9-ae22-d0fca61c62e3" alt="박소혜" width="100">    | <ul><li>프로필</li><li>감정 관리</li><li>관심분야 통계</li><li>콘텐츠 통계</li></ul>    |
-| 이상인    |  <img src="https://github.com/user-attachments/assets/436b3b7c-cfe4-404e-8668-0e18a3befae7" alt="이상인" width="100">    | <ul><li>피드</li><li>팔로우/li><li>포스트</li></ul>    |
-
+| 황재용    |  <img src="https://github.com/user-attachments/assets/4a77a17f-4636-42d1-8a3e-7dd39083ed45" alt="황재용" width="100"> | <ul><li>회원가입</li><li>로그인/로그아웃</li><li>회원정보 관리</li></ul>     |  
+| 홍성경   |  <img src="https://github.com/user-attachments/assets/8b339fdd-2bfc-4bc0-a6e5-9ec4120cc5dd" alt="박소혜" width="100">| <ul><li>데이터 통계</li><li>설문지 관리</li></ul> |  
+| 진보경   |  <img src="https://github.com/user-attachments/assets/41d4f8f2-e6fb-45f8-b96b-54e06bb19f2a" alt="정예인" width="100">    |<ul><li>상품 관리</li></ul>  |  
+| 조수민    |  <img src="https://github.com/user-attachments/assets/14a989db-70e9-40ca-8d2b-9c8a67a648b3" alt="박현욱" width="100">    | <ul><li>즐겨찾기</li></ul>    |  
+| 박소혜    |  <img src="https://github.com/user-attachments/assets/dfba3d6e-bbae-40bf-832b-101e29739593" alt="최유진" width="100">    | <ul><li>공지사항</li><li>자유게시판</li><li>FAQ</li><li>Q&A</li></ul>    |  
 <br/>
 <br/>
 
