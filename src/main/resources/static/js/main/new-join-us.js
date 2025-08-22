@@ -99,7 +99,7 @@ function validateForm(){
         valid=false;
     }else if(!numberRegex.test(user_birth)){
         error_birth.style.display="block";
-        error_birth.textContent="00/00/00 양식으로 적어주세요.";
+        error_birth.textContent="0000-00-00 양식으로 적어주세요.";
         valid=false;
     } else {
         error_birth.style.display="none";

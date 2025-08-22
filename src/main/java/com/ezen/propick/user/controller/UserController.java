@@ -148,9 +148,17 @@ public class UserController {
 
     //회원 탈퇴
     @DeleteMapping("/{userId}")
-    public ResponseEntity<String> deleteByUserId(@PathVariable String userId) {
+    public ResponseEntity<String> deleteByUserId(
+            @PathVariable String userId,
+            HttpServletRequest request
+    ) {
+        // 1. 데이터베이스에서 사용자 정보 삭제
         userService.deleteUser(userId);
-        return ResponseEntity.ok("회원 탈퇴 완료");
+
+        // 2. 현재 세션 무효화
+        request.getSession().invalidate();
+
+        return ResponseEntity.ok("회원 탈퇴가 완료되었습니다.");
     }
 
 //    @DeleteMapping("/me")
