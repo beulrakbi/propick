@@ -88,12 +88,14 @@
 
 # 8. 주요 기능 구현 @황재용  
 
+## 결과물 영상  
+[🎥유튜브 https://youtu.be/WBS3rHz3Ezg](https://youtu.be/WBS3rHz3Ezg)  
+
 ## 회원가입
 - 사용자의 정보를 입력받아 DB에 저장하는 회원가입 기능을 구현하였습니다.
 - 각 입력 항목에 대해 데이터 타입에 맞는 유효성 검사를 적용하여 올바른 값만 입력되도록 처리하였습니다.
 
 > <img width="60%" alt="SCR-20250626-qgfg" src="https://github.com/user-attachments/assets/1c59a528-1b43-440e-a7d6-d79b790c10d1" />
-📽️시연 영상: https://www.youtube.com/watch?v=RUJriZlPywM (윈도우: Ctrl+클릭, 맥: command+클릭 부탁드립니다!)
 
 <br/><br/>
 
@@ -102,7 +104,6 @@
 - 로그인 시 헤더의 버튼이 '로그인'에서 '로그아웃'으로 변경되며, 마이페이지에는 로그인한 사용자의 아이디가 표시됩니다.
 
 > <img width="60%" alt="SCR-20250626-qgfg" src="https://github.com/user-attachments/assets/c6754ce8-5a66-45ea-aaf1-1f620246fa9f" />  
-📽️시연 영상: https://youtu.be/5BV13Wl97qQ (윈도우: Ctrl+클릭, 맥: command+클릭 부탁드립니다!)
 
 <br/><br/>
 
@@ -111,7 +112,6 @@
 - 회원 정보 수정(UPDATE)과 회원 탈퇴 기능을 포함하고있습니다.
 
 > <img width="889" alt="SCR-20250626-qfmo" src="https://github.com/user-attachments/assets/46a9ed5e-26ff-4f58-b767-4d962fa686ec" />  
-📽️시연 영상: https://www.youtube.com/watch?v=UOntSSO-dJQ (윈도우: Ctrl+클릭, 맥: command+클릭 부탁드립니다!)
 <br/><br/>
 
 ## 회원관리
@@ -119,7 +119,6 @@
 
 >  <img width="761" alt="SCR-20250626-qgnp" src="https://github.com/user-attachments/assets/9c689fd7-1d11-495d-b02a-36dd10ab07b3" />  
 >  <img width="761" alt="SCR-20250626-qgnp" src="https://github.com/user-attachments/assets/578efcc6-6c4f-490d-9ff8-6e90c8c8cd3e" />   
-📽️시연 영상: https://www.youtube.com/watch?v=Cj3BDI5m0Yw (윈도우: Ctrl+클릭, 맥: command+클릭 부탁드립니다!)
 <br/>
 <br/>
 
